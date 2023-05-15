@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 tips for writing efficient PHP code 💡💹](https://dev.to/peterbassemkostandy/5-tips-for-writing-efficient-php-code-1edi)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
