@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Pro Tips - Laravel Queue ✨](https://dev.to/peterbassemkostandy/laravel-pro-tips-laravel-queue-2bcp)
 - [5 tips for writing efficient PHP code 💡💹](https://dev.to/peterbassemkostandy/5-tips-for-writing-efficient-php-code-1edi)
 <!-- BLOG-POST-LIST:END -->
 
