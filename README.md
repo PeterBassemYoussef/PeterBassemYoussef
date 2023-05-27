@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **I Improve my experience in Laravel framework "laravel.com" and learning Symfony framework "symfony.com"**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/petobarkar/](https://www.linkedin.com/in/petobarkar/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/peterkostandy/](https://www.linkedin.com/in/peterkostandy/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/petobarkar/recent-activity/shares/](https://www.linkedin.com/in/petobarkar/recent-activity/shares/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/peterkostandy/recent-activity/shares/](https://www.linkedin.com/in/peterkostandy/recent-activity/shares/)
 
 - 💬 Ask me about **PHP • Laravel • WordPress • MySQL • Programming • OOP • Problem Solving • Graphic Design**
 
 - 📫 How to reach me **peter.bassem.kostandy@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/petobarkar/details/experience/](https://www.linkedin.com/in/petobarkar/details/experience/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/peterkostandy/details/experience/](https://www.linkedin.com/in/peterkostandy/details/experience/)
 
 - ⚡ Fun fact **I'm a Bodybuilder since 2015 and a private coach 2018, I love music and I'm a guitarist since 2008.**
 
@@ -34,7 +34,7 @@
 <a href="https://codepen.io/peterbassemkostandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="peterbassemkostandy" height="30" width="40" /></a>
 <a href="https://dev.to/peterbassemkostandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="peterbassemkostandy" height="30" width="40" /></a>
 <a href="https://twitter.com/petobarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petobarkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/petobarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petobarkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peterkostandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petobarkar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/3682625/peterbassemkostandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/3682625/peterbassemkostandy" height="30" width="40" /></a>
 <a href="https://kaggle.com/peterbyoussef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="peterbyoussef" height="30" width="40" /></a>
 <a href="https://fb.com/peto.barkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peto.barkar" height="30" width="40" /></a>
