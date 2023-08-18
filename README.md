@@ -25,7 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Decoding DI vs. DI](https://dev.to/peterbassemkostandy/di-vs-di-39d9)
+- [Decoding DI vs. DI ✨](https://dev.to/peterbassemkostandy/di-vs-di-39d9)
 - [Enhancing Laravel Applications with Action-Based Architecture 💡](https://dev.to/peterbassemkostandy/enhancing-laravel-applications-with-action-based-architecture-b2e)
 - [Laravel Pro Tips - Laravel Queue ✨](https://dev.to/peterbassemkostandy/laravel-pro-tips-laravel-queue-2bcp)
 - [5 tips for writing efficient PHP code 💡💹](https://dev.to/peterbassemkostandy/5-tips-for-writing-efficient-php-code-1edi)
