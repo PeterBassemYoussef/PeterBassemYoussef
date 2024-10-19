@@ -30,10 +30,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Cart Management with Laravel&#39;s Observer Pattern](https://dev.to/peterbassemkostandy/mastering-cart-management-with-laravels-observer-pattern-1dod)
-- [Decoding DI vs. DI ✨](https://dev.to/peterbassemkostandy/di-vs-di-39d9)
-- [Enhancing Laravel Applications with Action-Based Architecture 💡](https://dev.to/peterbassemkostandy/enhancing-laravel-applications-with-action-based-architecture-b2e)
-- [Laravel Pro Tips - Laravel Queue ✨](https://dev.to/peterbassemkostandy/laravel-pro-tips-laravel-queue-2bcp)
+- [Mastering Cart Management with Laravel&#39;s Observer Pattern](https://dev.to/peterkostandy/mastering-cart-management-with-laravels-observer-pattern-1dod)
+- [Decoding DI vs. DI ✨](https://dev.to/peterkostandy/di-vs-di-39d9)
+- [Enhancing Laravel Applications with Action-Based Architecture 💡](https://dev.to/peterkostandy/enhancing-laravel-applications-with-action-based-architecture-b2e)
+- [Laravel Pro Tips - Laravel Queue ✨](https://dev.to/peterkostandy/laravel-pro-tips-laravel-queue-2bcp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
